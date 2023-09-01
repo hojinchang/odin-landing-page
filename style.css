@@ -1,0 +1,33 @@
+.body {
+    font-family: "Roboto", Arial;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+
+    background-color: #1F2937;
+}
+
+.logo {
+    width: auto;
+    height: 50px;
+
+    padding: 10px;
+    margin-left: 100px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+
+    margin-right: 100px;
+    gap: 50px;
+}
+
+li {
+    font-size: 18px;
+    font-family: "Roboto", Arial;
+    color: #E5E7EB;
+}
