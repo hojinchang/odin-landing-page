@@ -34,18 +34,16 @@ a {
 .hero-container {
     display: flex;
     background-color: #1F2937;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-
-    padding: 100px;
-    
+    padding: 100px;    
 }
 
 .hero-content {
-    width: 500px;
     margin-right: 50px;
     font-family: "Roboto", Arial;
     color: #F9FAF8;
+    max-width: 700px;
 }
 
 .hero-main-text,
@@ -72,7 +70,6 @@ a {
 .button {
     background-color: #3882F6;
     padding: 5px 20px;
-    border: 0;
     border-radius: 5px;
    
     font-size: 18px;
