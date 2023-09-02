@@ -103,7 +103,7 @@ a {
     color: #1F2937;
     text-align: center;
     margin-top: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .animal-picture {
@@ -124,6 +124,7 @@ a {
     justify-content: center;
     flex-wrap: wrap;
     gap: 70px;
+    padding: 50px;
 }
 
 /* Quote Stuff */
