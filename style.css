@@ -103,7 +103,7 @@ a {
     color: #1F2937;
     text-align: center;
     margin-top: 60px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .animal-picture {
@@ -159,3 +159,27 @@ a {
     align-self: flex-end;
     margin-right: 500px;
 }
+
+/* Call to action stuff */
+.call-to-action-container {
+    display: flex;
+    background-color: #3882f6;
+    margin: 60px 150px;
+    border-radius: 10px;
+
+    align-items: center;
+    padding: 10px 80px;
+}
+
+.action-text {
+    color: #E5E7EB;
+    text-align: left;
+    margin-left: 100px;
+    /* margin-right: 300px; */
+    flex: 1;
+}
+
+
+
+
+
