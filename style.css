@@ -180,10 +180,36 @@ a {
 }
 
 
-.footer {
+/* .footer {
     background-color: #1F2937;
     color: #E5E7EB;
     text-align: center;
+} */
+
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+
+    margin-top: auto;
+    font-family: "Roboto", Arial;
+}
+
+.footer-text {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #E5E7EB;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 
