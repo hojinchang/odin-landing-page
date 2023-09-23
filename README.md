@@ -3,11 +3,13 @@
 ## About
 This is a web page designed and created during the **Flexbox** course for the Odin Project.
 
-## Purpose
-1. Gain hands-on HTML coding and CSS styling experience by developing a landing web page
-2. Apply HTML and CSS (flexbox) concepts learned in lessons
-3. Maintain a proper repository with well-organized sources, descriptive commit messages, and organized commit history.
+Visit the landing page [here](https://hojinchang.github.io/odin-landing-page/).
 
-## View the webpage
+## Built Using
+- HTML5
+- CSS3
+- Visual Studio Code
+- Xubuntu
 
-View the landing page [here](https://hojinchang.github.io/odin-landing-page/).
+## Features
+- Responsive CSS Flexbox layout
